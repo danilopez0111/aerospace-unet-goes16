@@ -6,7 +6,7 @@ This project is the culmination of my internship with The Aerospace Corporation 
 
 ## Data
 
-For this project, we used two primary data sources:
+For this project, we used two data sources:
 
 ### NASA GOES-16 ABI CONUS Channel 13
 
