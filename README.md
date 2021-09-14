@@ -1,5 +1,12 @@
 # Predicting Lightning Strikes using GOES-16 and U-Net Semantic Segmentation Model
 
+## Table of Contents  
+- [Motivation](#motivation)
+- [Data](#data)  
+- [ML Architecture](#ml-architecture)
+- [Results](#results)
+- [Summary](#summary)
+
 ## Motivation
 
 This project is the culmination of my internship with The Aerospace Corporation in the summer of 2021 within the Weather Remote Sensing Systems Office. My task was to develop a dataset to apply a machine learning algorithm to create pixel-based lightning predictions at 5, 15, and 30 minute intervals to support the launch of space vehicles at Cape Canaveral. Because severe weather is an important consideration when launching these vehicles, being able to accurately predicting lightning strikes would help improve the safety of missions.
