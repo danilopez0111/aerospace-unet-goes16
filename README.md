@@ -1,11 +1,17 @@
 # Predicting Lightning Strikes using GOES-16 and U-Net Semantic Segmentation Model
 
 ## Table of Contents  
+- [Authors](#authors)
 - [Motivation](#motivation)
 - [Data](#data)  
 - [ML Architecture](#ml-architecture)
 - [Results](#results)
 - [Summary](#summary)
+
+## Authors
+
+Daniel Lopez and Eric W. Wendelowski  
+The Aerospace Corporation
 
 ## Motivation
 
