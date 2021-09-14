@@ -22,6 +22,12 @@ For this project, we used two data sources:
 <p align="center">
   <img src="https://github.com/danilopez0111/aerospace-unet-goes16/blob/main/images/goes16.jpg?raw=true">
 </p>
+<p align="center">
+  https://www.nesdis.noaa.gov/news/get-ready-drift-goes-17-begins-move-its-new-operational-position
+</p>
+<p align="center">
+  <img src="https://github.com/danilopez0111/aerospace-unet-goes16/blob/main/images/channel13.jpg?raw=true">
+</p>
 
 Part of the GOES-R series- Geostationary Operation Environmental Satellite operated by NASA and NOAA, providing 16 spectral bands (including visible and infrared) of imagery through the instrument called the Advanced Baseline Imager centered at 75.2 deg W centered on the Americas. Channel 13 is a 10.3 micrometers clean infrared window band, is less sensitive to water vapor, and is available day and night. This will aid in machine learning for the visual characterization of lightning events. Based on a Google Cloud bucket, the training dataset consisted of images between mid 2017 to mid 2020.
 
@@ -34,6 +40,10 @@ Dataset is sensitive and will not be discussed.
 <p align="center">
   <img src="https://github.com/danilopez0111/aerospace-unet-goes16/blob/main/images/u-net-architecture.png?raw=true">
 </p>
+<p align="center">
+  https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/
+</p>
+
 
 Because this is a semantic segmentation problem, where we want pixel based probabilities, the U-Net architecture was determined to be a sufficient baseline performance candidate. Originally developed for biomedical applications, the U-Net architecture has shown great success in the application of remote sensing. 
 
