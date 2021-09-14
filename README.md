@@ -10,6 +10,10 @@ For this project, I used two primary data sources:
 
 ### NASA GOES-16 ABI CONUS Channel 13
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/danilopez0111/aerospace-unet-goes16/tree/main/images/goes16.jpg">
+</p>
+
 Part of the GOES-R series- Geostationary Operation Environmental Satellite operated by NASA and NOAA, providing 16 spectral bands (including visible and infrared) of imagery through the instrument called the Advanced Baseline Imager centered at 75.2 deg W centered on the Americas. Channel 13 is a 10.3 micrometers clean infrared window band, is less sensitive to water vapor, and is available day and night. This will aid in machine learning for the visual characterization of lightning events. Based on a Google Cloud bucket, the training dataset consisted of images between mid 2017 to mid 2020.
 
 ### Lightning Occurence Dataset
