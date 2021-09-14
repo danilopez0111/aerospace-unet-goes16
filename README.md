@@ -69,7 +69,7 @@ Because this is a semantic segmentation problem, where we want pixel based proba
 
 ## Evaluation
 
-Two methods of accuracy we evaluated for the results are the IOU score and the F1 score- two widely accepted methods for evaluation for semantic segmentation.
+Two methods of accuracy we evaluated for the results are the IOU score and the F1 score- two widely accepted methods of evaluation for semantic segmentation.
 
 ### 5 Minute Model
 
