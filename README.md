@@ -4,6 +4,8 @@
 
 This project is the culmination of my internship with The Aerospace Corporation in the summer of 2021 within the Weather Remote Sensing Systems Office. My task was to develop a dataset to apply a machine learning algorithm to create pixel-based lightning predictions at 5, 15, and 30 minute intervals to support the launch of space vehicles at Cape Canaveral. Because severe weather is an important consideration when launching these vehicles, being able to accurately predicting lightning strikes would help improve the safety of missions.
 
+Unfortunately, the code for this project is sensitive and will not be released.
+
 ## Data
 
 For this project, we used two data sources:
