@@ -16,9 +16,9 @@ Part of the GOES-R series- Geostationary Operation Environmental Satellite opera
 
 Dataset is sensitive and will not be discussed. 
 
-## ML Algorithm
+## ML Architecture
 
-Because this is a semantic segmentation problem, where we want pixel based probabilities, the U-Net model was determined to be a sufficient baseline performance candidate. Originally developed for biomedical applications, the U-Net model has shown great success in the application of remote sensing. 
+Because this is a semantic segmentation problem, where we want pixel based probabilities, the U-Net architecture was determined to be a sufficient baseline performance candidate. Originally developed for biomedical applications, the U-Net architecture has shown great success in the application of remote sensing. 
 
 ## Results
 
