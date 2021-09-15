@@ -96,4 +96,4 @@ F1: 50%
 
 The great success of this project include being able to accurately predict the relative location of lightning occurences, being able to characterize the shape of lightning hotspots, and being a proof of concept as a success for machine learning to be applied to remote sensing and atmospheric scicences. 
 
-Though, there are still areas of improvement. The model lacks fidelity and precision for lightning strikes, but is currently expected as exact lightning locations are very hard to characterize! Also, the model still misclassified some areas, which may be recitified through the input of more traning samples. 
+Though, there are still areas of improvement. The model lacks fidelity and precision for lightning strikes, but is currently expected as exact lightning locations are very hard to characterize! Also, the model still misclassified some areas, which may be recitified through the input of more training samples. 
